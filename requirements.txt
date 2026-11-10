@@ -1,0 +1,14 @@
+# YouTube Sentiment & Dynamic Opinion Analysis System
+# Core Scientific & Data Processing Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+nltk>=3.8.0
+vaderSentiment>=3.3.2
+
+# Visualization & Presentation Layer
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# YouTube Data API Integration
+google-api-python-client>=2.100.0
